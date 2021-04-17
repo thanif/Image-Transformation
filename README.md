@@ -36,4 +36,4 @@ The sequence of output images is as follows:
 
 # Demo
 
-![alt text](sc_montage.png)
+![alt text](demo.gif)
