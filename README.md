@@ -34,4 +34,6 @@ The sequence of output images is as follows:
 
 ![alt text](sc_montage.png)
 
-Demo: https://www.youtube.com/watch?v=f1mBwO7kBXw
+# Demo
+
+![alt text](sc_montage.png)
