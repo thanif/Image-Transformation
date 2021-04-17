@@ -12,7 +12,7 @@ First time discard the samples that go outside the target image boundary.
 
 Second time show the complete transformed image.
 
-# Article: https://thanifbutt.medium.com/transformations-ecb88f4b7e66
+Article: https://thanifbutt.medium.com/transformations-ecb88f4b7e66
 
 The sequence of output images is as follows:
 
