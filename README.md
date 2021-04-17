@@ -11,3 +11,25 @@ These above tasks are done twice:
 First time discard the samples that go outside the target image boundary.
 
 Second time show the complete transformed image.
+
+The sequence of output images is as follows:
+
+1. transform
+
+2. inverse_transform
+
+3. complete_transform
+
+4. complete_inverse_transform
+
+# Rotation
+
+![alt text](rot_montage.png)
+
+# Translation
+
+![alt text](tr_montage.png)
+
+# Scaling
+
+![alt text](sc_montage.png)
