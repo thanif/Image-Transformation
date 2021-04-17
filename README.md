@@ -33,3 +33,5 @@ The sequence of output images is as follows:
 # Scaling
 
 ![alt text](sc_montage.png)
+
+Demo: https://www.youtube.com/watch?v=f1mBwO7kBXw
